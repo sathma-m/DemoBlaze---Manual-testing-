@@ -40,8 +40,8 @@ DemoBlaze E-Commerce Website
 
 ## Test Results
 
-- Total Test Cases: 29
-- Passed: 26
+- Total Test Cases: 27
+- Passed: 24
 - Failed: 3
 - Not Executed: 0
 
