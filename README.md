@@ -9,7 +9,8 @@ forms, cart, ordering process, and UI components of the application.
 
 ## Application
 
-DemoBlaze E-Commerce Website
+DemoBlaze E-Commerce Website 
+https://demoblaze.com/ 
 
 ## Testing Type
 
