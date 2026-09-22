@@ -32,12 +32,12 @@ https://demoblaze.com/
 
  Document                  Description 
 
- Test Plan                 Defines testing objectives, scope, strategy and resources 
- Test Scenarios            High-level testing scenarios 
- Test Cases                Detailed test cases and expected results 
- Test Execution            Test execution results 
- Defect Log                Identified defects 
- Test Summary Report       Overall testing results and conclusion 
+ **Test Plan     -            Defines testing objectives, scope, strategy and resources 
+ **Test Scenarios   -            High-level testing scenarios 
+ **Test Cases   -             Detailed test cases and expected results 
+ **Test Execution -           Test execution results 
+ **Defect Log  -              Identified defects 
+ **Test Summary Report  -      Overall testing results and conclusion 
 
 ## Test Results
 
